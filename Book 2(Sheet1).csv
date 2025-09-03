@@ -1,22 +1,12 @@
-
 Name ,Monday,Tuesday,Wenesday,Thursday,Friday
 "Fisher	X	X	X	X	X",,,,,
-Walden,,X,X,,
-Austin,XXXX
+Walden,,X,X,X,
+Austin,XXXX,,,,
 Manuel,,,,,
 Michael,,,,,
 Maria :3 X, X, X,,,
 Caedan,,,,,X X X X
 Anthony,,,,,
 Nathaniel X X,,,,,
-
-Console.WriteLine("Fatty");
-
-
-
-
-
-
-
-
-
+,,,,,
+"Console.WriteLine(""Fatty"");",,,,,
