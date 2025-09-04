@@ -2,3 +2,5 @@ Day 3: Fisher got quarantined again, leaving us unable to do out work. Everyone 
 Maria says: shut up  /
 on buh </3  /
 huh ?
+
+Day 12: Maria is being annoying and nate still smells and this project is giving me issues
